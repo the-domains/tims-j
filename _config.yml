@@ -1,0 +1,28 @@
+name: tims-j
+favicon: null
+layout_spectrum: 0.2950476973783225
+typography_spectrum: 0.7036526771262288
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7788617364130914
+  lightness: 0.9378722039982677
+  saturation: 0.9420511208008975
+  rhythmicContrast: 0.3675757690798491
+purpose: []
